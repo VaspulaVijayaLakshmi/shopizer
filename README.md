@@ -1,3 +1,9 @@
+
+ISSUES:
+
+https://github.com/shopizer-ecommerce/shopizer/issues/986
+
+
 # Shopizer 3 (for java 1.8 +) (tested with Java 11)
 
 
